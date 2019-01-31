@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/jeffy/IdeaProjects/mybatis-test/.idea/encodings.xml" timestamp="1548845959000" />
+    <file path="/Users/jeffy/IdeaProjects/mybatis-test/.idea/misc.xml" timestamp="1548845963000" />
+    <file path="/Users/jeffy/IdeaProjects/mybatis-test/.idea/modules.xml" timestamp="1548845961000" />
+    <file path="/Users/jeffy/IdeaProjects/mybatis-test/.idea/workspace.xml" timestamp="1548845984000" />
+    <file path="/Users/jeffy/IdeaProjects/mybatis-test/mybatis-test.iml" timestamp="1548845961000" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,43 @@
+oreStateÔNameClassChildStateÀSinglePatternContainerStateÏ
+RefStateÜLexicalHandlerImplNsNameStatejAbstractContextÒ
+ValueStateÛ
+StartStateûPatternContainerState×SkipperêAnyNameStateŠHandlerĞNameClassRefÆParentRefStateÈForeignElementHandlerÙChoiceStateÆNameClassChoiceState-DivStateÑ	DefineStateÚNameClassBaseStateì	ListStateà	TextStateÚ	NameState¿CommentHandleräGrammarSectionStateä	
+EmptyStateîSavedContextÿElementStateÌPrefixMappingöExternalRefStateäNotAllowedStateÂ	RootStateÖContextImplğSchemaParserMergeGrammarStateÛ`ParsedElementAnnotationùÿÿÿ^ŞÈ
+ÈÿüÄErrorHandlerÉ ParsedPatternùÿÿÿÌùÔşõÈÚScopeşÿÿÿâÉ LocationõÿÿÿÙÔôáûÕïÉãıêListõÿÿÿÙÔôáûÕïÉãıêAbstractContextşÿÿÿÆŞSAXParseExceptionşÿÿÿÿÂ StringşşÿÿP›ËôÓíĞõòşü	Ù
+õ
+ßıÉúÁîÑâòÅÜãÙúÇÒñşÔÂÕÜéôûıáèñÍÖéåÁÃÊÓŞçòÆÍÖáêõÉ á ì õ ü È!	XMLReaderÉ NameClassRefÎParsedNameClass÷ÿÿÿW~±¸×ü
+ãËáCommentListèSAXParseableÉ StateúÿÿÿDÎÊóèÉDivØ	Include÷LocatorùÿÿÿİŞçòáêõ
+AttributesüÿÿÿúñÜÎAnnotationsôÿÿÿÙÔôáûÕïÉãıêá PrefixMappingÁSchemaBuilderÉ IncludedGrammarıÿÿÿââÉ GrammarSectionüÿÿÿÀáÉğ	DataPatternBuilderñ^StringÎvoidşÿÿÿËé]setNameClassËrelaxng10URIÎcommenté\gOneOrMoreStateÙ	TextStateßcheckNCNameõ getParsedPatternşSinglePatternContainerStateÔ
+setøForeignElementHandlerècreateChildStateòÿÿÿP›ËôÓü	Ù
+ßÉúòãÙÂskippedEntityñSkipperóbuildPatternõÿÿÿÙÔôáûÕïÉãıêstartDTDNameClassChoiceStateşÿÿÿ8=makePattern÷ÿÿÿÃ×ùÇÑéıÑàprocessingInstructionèsendPatternToParentıÿÿÿÌùÈ
+findPrefixì SchemaParserÉ NameClassChildStateÎgetNsĞNameClassContainerStateïsetDocumentLocatorİ
+expandNameá AttributeStateë
+endChildøÿÿÿW¸×ÔşõÚá	ListStateåChoiceStateËStateóendñÿÿÿeûåÖéÌ	ß	Ã
+ÏàÏÌÃåÕ
+attributesÎcheckForeignElementûÿÿÿâÛÂùÉZeroOrMoreStateó
+getContextıÿÿÿ…¢Ü LexicalHandlerImplendForeignChildùÿÿÿ^ŞÈ
+ÈÿüÄDefinitionStateÉresolveü 	NameStateÆ
+StartStateÀInterleaveStateñNameClassBaseStateñstartDocumentşÿÿÿèÃmakeNameClassNoExceptşÿÿÿy¬prefixesì
+charactersûÿÿÿ×Ğ÷Éò
+EmptyStateóHandler×SavedContextÆstartElementıÿÿÿúñÜ	RootStateşÿÿÿİâAbstractContextşÿÿÿÙŞPrefixMappingÁcopyñwarningùÿÿÿÆÍÖáêõÂ 	flushTextÛsetOtherAttributeúÿÿÿĞõşÁîûMergeGrammarStateâGrammarSectionStateşÿÿÿë	ğ	
+endElementıÿÿÿÇşéPatternContainerStateŞ
+ValueStateäignorableWhitespaceømakeLocationÃ!isRelaxNGElementşÿÿÿÅÕNotAllowedStateÇElementState×mergeLeadingCommentsËinitPatternTableôendAttributes÷ÿÿÿôşíÇ	ÃÄÊêÄendDTDContextImplõ	DataStateğmakeNameClassExceptşÿÿÿ~±makeNameClassıÿÿÿ§çöGrammarStateÅinitNameClassTableù
+ParamStateñendPrefixMappingÖParentRefStateÍcheckUriÈ!createâÿÿÿKt–ÒÉÇèğÒèÑ÷	ğ
+øõéäøÌíïÜöĞêÄŞøÒıOptionalStateÿ	setParentıÿÿÿDÊÉ
+GroupStateÍDefineStateágetCommentsÜ
+MixedState×EmptyContentStateÔendDocumentşÿÿÿíÈIncludeState÷AnyNameState‘DivStateØ	NsNameStateosetNameClassıÿÿÿü
+ãËstartPrefixMappingÍerrorùÿÿÿÃÊÓŞçòÿsetNameúÿÿÿíòõ
+ıÜô
+getBaseUrişÿÿÿúÍisPatternNamespaceURIıRefStateãresolveNamespacePrefixåcommentûÿÿÿ"ÒÔáéExternalRefStateë[:builderStackâbaseUriÄtextBufä	parseableòehÖlocatorŞtypeşÿÿÿêâcombineÅstartPatternÜnNameClasses4ANY_NAME_CONTEXTîNS_NAME_CONTEXTğxmlBaseHandlerànameûÿÿÿßáé
+ïÕcontextşÿÿÿ6âxrÔinDtdsectionşÿÿÿÇé	levelï
+relaxngURIÒdpbşÿÿÿíînsédatatypeLibraryëgrammarıÿÿÿÃàÛstartLocationï	prevStateÅscopeírelaxngURIPrefixÌnextÿincludeõparentåexceptşÿÿÿì	nsInheritçhadErroränameClassBuilderÚ	nextStateşÿÿÿñŞbufıÿÿÿÄëàuriıpatternTableæchildPatternsÜhrefşÿÿÿéónameClasses2nameClassTableèschemaBuilderØbuilderàtextLocæPATTERN_CONTEXTìannotationsñrelaxng10URIÎdivÖ	prefixûnameClassWasAttributeşÿÿÿç
+ÓnameClassRefÇ	localizerĞprefixMapping×INIT_CHILD_ALLOCêcommentsÕ	nameClassşÿÿÿå
+ÑZDefaultHandleríContentHandlerÔHandlerşÿÿÿÜã
+DtdContextÕNameClassContainerStateşÿÿÿ0ÃNameClassBaseStateşÿÿÿÂAbstractLexicalHandler	PatternContainerStateóÿÿÿÃÒ
+ã
+ÙÏÕïÉãı×ñËGrammarSectionStateüÿÿÿÁŞñÔ	AnyNameStatemNameClassRefşÿÿÿä
+ĞRefStateËCommentHandlerşÿÿÿîÔDefinitionStateşÿÿÿşİStateùÿÿÿïíç	éèÚÒAbstractContextşÿÿÿóÂEmptyContentStateúÿÿÿçßŞİñÅContextÖç¬bolaMessage`String^PartMessage]partname\partnameZ
+DocumentedTypedXmlWriterYXmlAttribute	
+XmlElementşÿÿÿó¬b¬rÙaService`String^PortService]portname\portnameZ
+DocumentedTypedXmlWriterYXmlAttribute	
+XmlElementşÿÿÿ

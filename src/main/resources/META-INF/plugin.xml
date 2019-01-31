@@ -1,0 +1,36 @@
+<idea-plugin>
+    <id>com.coder.enhance.mybatis-auto-code</id>
+    <name>mybatis-auto-coder</name>
+    <vendor email="jeffysnail@gmail.com" url="">self-coder</vendor>
+
+    <description><![CDATA[
+        本插件是通过创建一个简单的java bean生成mybatis相关的xml service 和controller
+        支持rpc 和单体的应用的生成方式
+        支持驼峰和下划线的命名方式
+    ]]>
+    </description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <group id="MyPlugin.SampleMenu" text="Greeting" description="Greeting menu">
+            <add-to-group group-id="MainMenu" anchor="last"/>
+            <action id="Myplugin.Textboxes" class="com.coder.enhance.action.FirstAction" text="Hello" description="Says hello"/>
+        </group>
+    </actions>
+    <!--<actions>-->
+        <!---->
+        <!--<action id="Myplugin.Textboxes" class="com.coder.enhance.action.FirstAction" text="Hello"-->
+                <!--description="Says hello">-->
+            <!--<add-to-group group-id="EditorPopupMenu" anchor="first"/>-->
+        <!--</action>-->
+    <!--</actions>-->
+</idea-plugin>
