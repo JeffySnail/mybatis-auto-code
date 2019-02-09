@@ -15,11 +15,11 @@ public class AutoCoderException extends RuntimeException {
     private String message;
 
 
-    public AutoCoderException paramException(String message) {
+    public static AutoCoderException paramException(String message) {
         return new AutoCoderException(PARAM_ERROR, message);
     }
 
-    public AutoCoderException innerException(String message) {
+    public static AutoCoderException innerException(String message) {
         return new AutoCoderException(INNER_ERROR, message);
     }
 

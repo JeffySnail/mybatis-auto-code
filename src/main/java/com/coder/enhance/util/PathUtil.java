@@ -13,6 +13,9 @@ import com.intellij.psi.util.PsiUtilBase;
  * @date 2019-01-31
  **/
 public class PathUtil {
+    public static String replaceLine(String beanUrl) {
+        return beanUrl.replace("/", ".");
+    }
 
     public static final String getClassPath(AnActionEvent event) {
         if (null == event) {
@@ -30,7 +33,7 @@ public class PathUtil {
 
     }
 
-    private static final String getEntityPath(AnActionEvent event) {
+    public static final String getEntityPath(AnActionEvent event) {
         if (null == event) {
             return "";
         }
@@ -52,4 +55,5 @@ public class PathUtil {
         }
         return path.split("/src/main/java/")[1];
     }
+
 }

@@ -1,6 +1,8 @@
 package com.coder.enhance.ui;
 
 import com.coder.enhance.constant.JavaTypeMappingConstant;
+import com.coder.enhance.util.PathUtil;
+import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.project.Project;
 
 import javax.swing.*;
@@ -11,6 +13,7 @@ import javax.swing.*;
  **/
 public class AutoCoderConfigForm {
     private Project project;
+    private AnActionEvent anActionEvent;
     private JPanel mainForm;
     private JTextField mapperSuffixField;
     private JLabel mapperSuffixLabel;
@@ -52,9 +55,16 @@ public class AutoCoderConfigForm {
     private JTextField charMappingField;
     private JLabel useMybatisPenguinLabel;
     private JCheckBox useMybatisPenguinCheckBox;
+    private JLabel charsetLabel;
+    private JTextField charsetField;
+    private JTextField xmlPathField;
+    private JLabel xmlPathLabel;
+    private JTextField controllerPathField;
+    private JLabel controllerPathLabel;
 
-    public AutoCoderConfigForm(Project project) {
+    public AutoCoderConfigForm(Project project, AnActionEvent anActionEvent) {
         this.project = project;
+        this.anActionEvent = anActionEvent;
         init();
     }
 
@@ -65,6 +75,17 @@ public class AutoCoderConfigForm {
         charMappingField.setText(JavaTypeMappingConstant.DEFAULT_CHAR);
         integerMappingField.setText(JavaTypeMappingConstant.DEFAULT_INTEGER);
         doubleMappingField.setText(JavaTypeMappingConstant.DEFAULT_DOUBLE);
+
+
+        mapperPathField.setText(PathUtil.getClassPath(anActionEvent));
+        servicePathField.setText(PathUtil.getClassPath(anActionEvent));
+        serviceImplPathField.setText(PathUtil.getClassPath(anActionEvent));
+        dtoPathField.setText(PathUtil.getClassPath(anActionEvent));
+        junitTestPathField.setText(PathUtil.getClassPath(anActionEvent));
+        controllerPathField.setText(PathUtil.getClassPath(anActionEvent));
+        xmlPathField.setText(PathUtil.getClassPath(anActionEvent));
+        sqlPathField.setText(PathUtil.getClassPath(anActionEvent));
+
     }
 
     public JPanel getMainForm() {
@@ -401,5 +422,61 @@ public class AutoCoderConfigForm {
 
     public void setUseMybatisPenguinCheckBox(JCheckBox useMybatisPenguinCheckBox) {
         this.useMybatisPenguinCheckBox = useMybatisPenguinCheckBox;
+    }
+
+    public JLabel getCharsetLabel() {
+        return charsetLabel;
+    }
+
+    public void setCharsetLabel(JLabel charsetLabel) {
+        this.charsetLabel = charsetLabel;
+    }
+
+    public JTextField getCharsetField() {
+        return charsetField;
+    }
+
+    public void setCharsetField(JTextField charsetField) {
+        this.charsetField = charsetField;
+    }
+
+    public AnActionEvent getAnActionEvent() {
+        return anActionEvent;
+    }
+
+    public void setAnActionEvent(AnActionEvent anActionEvent) {
+        this.anActionEvent = anActionEvent;
+    }
+
+    public JTextField getXmlPathField() {
+        return xmlPathField;
+    }
+
+    public void setXmlPathField(JTextField xmlPathField) {
+        this.xmlPathField = xmlPathField;
+    }
+
+    public JLabel getXmlPathLabel() {
+        return xmlPathLabel;
+    }
+
+    public void setXmlPathLabel(JLabel xmlPathLabel) {
+        this.xmlPathLabel = xmlPathLabel;
+    }
+
+    public JTextField getControllerPathField() {
+        return controllerPathField;
+    }
+
+    public void setControllerPathField(JTextField controllerPathField) {
+        this.controllerPathField = controllerPathField;
+    }
+
+    public JLabel getControllerPathLabel() {
+        return controllerPathLabel;
+    }
+
+    public void setControllerPathLabel(JLabel controllerPathLabel) {
+        this.controllerPathLabel = controllerPathLabel;
     }
 }

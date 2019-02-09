@@ -1,0 +1,51 @@
+package ${dao.packagePath};
+
+import java.util.List;
+import org.apache.ibatis.annotations.Param;
+/**
+ * @author
+ * @date
+ **/
+public interface ${dao.interfaceName} {
+        /**
+         * add ${dao.unCapitalizeBeanName}
+         * @return
+         */
+        int add${dao.beanName}(@Param("${dao.unCapitalizeBeanName}") ${dao.beanName} ${dao.unCapitalizeBeanName});
+
+        /**
+         * batch add ${dao.unCapitalizeBeanName}
+         * @return
+         */
+        int add${dao.beanName}Batch(@Param("${dao.unCapitalizeBeanName}s") List<${dao.beanName}> ${dao.unCapitalizeBeanName}s);
+
+        /**
+         * update ${dao.unCapitalizeBeanName} by id
+         * @return
+         */
+        int update${dao.beanName}ById(@Param("${dao.unCapitalizeBeanName}") ${dao.beanName} ${dao.unCapitalizeBeanName});
+
+        /**
+         * delete ${dao.unCapitalizeBeanName} by id
+         * @return ${dao.beanName}
+         */
+        int delete${dao.beanName}ById(@Param("id") int id );
+
+        /**
+         * load ${dao.unCapitalizeBeanName} by id
+         * @return ${dao.beanName}
+         */
+        ${dao.beanName} load${dao.beanName}ById(@Param("id") int id );
+
+        /**
+         * select count by not null properties
+         * @return
+         */
+        int  select${dao.beanName}Count(@Param("${dao.unCapitalizeBeanName}") ${dao.beanName} ${dao.unCapitalizeBeanName});
+
+        /**
+        *  select list by ids
+        * @return
+        */
+        List<${dao.beanName}> select${dao.beanName}ByIds (@Param("ids") List<Integer> ids );
+}

@@ -1,11 +1,8 @@
 package com.coder.enhance.bean;
 
-import lombok.Data;
-
 /**
  * @author jeffy
  * @date 2019-01-31
  **/
-@Data
-public class JunitTestConfigBean extends BaseConfigBean {
+public class JunitTestConfigBean extends ClassBean {
 }

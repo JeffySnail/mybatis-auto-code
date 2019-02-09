@@ -1,6 +1,8 @@
 package com.coder.enhance.enums;
 
+import com.coder.enhance.bean.Configuration;
 import com.google.common.collect.Maps;
+import org.apache.commons.lang.StringUtils;
 
 import java.util.Map;
 
@@ -14,6 +16,7 @@ public enum JavaBasicTypeEnum {
     STRING_TYPE("String", "String"),
     DOUBLE_TYPE("double", "Double"),
     LONG_TYPE("long", "Long"),
+    DATE_TYPE("Date","Date"),
     CHAR_TYPE("char", "Char");
 
     private String basicType;
@@ -30,10 +33,35 @@ public enum JavaBasicTypeEnum {
     }
 
     public static JavaBasicTypeEnum getTypeByBasicType(String key) {
-        if (key.isEmpty()) {
+        if (StringUtils.isEmpty(key)) {
             return null;
         }
         return TYPE_ENUM_MAP.get(key.toLowerCase());
+    }
+
+    public static final String getTypeMappingConfigByType(String key, Configuration configuration) {
+        if (null == configuration) {
+            return "";
+        }
+        if (INT_TYPE.basicType.equalsIgnoreCase(key)) {
+            return configuration.getIntegerMapping();
+        }
+        if (STRING_TYPE.basicType.equalsIgnoreCase(key)) {
+            return configuration.getStringMapping();
+        }
+        if (DOUBLE_TYPE.basicType.equalsIgnoreCase(key)) {
+            return configuration.getDoubleMapping();
+        }
+        if (LONG_TYPE.basicType.equalsIgnoreCase(key)) {
+            return configuration.getLongMapping();
+        }
+        if (CHAR_TYPE.basicType.equalsIgnoreCase(key)) {
+            return configuration.getCharMapping();
+        }
+        if(DATE_TYPE.basicType.equalsIgnoreCase(key)){
+            return " timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ";
+        }
+        return "";
     }
 
     public String getBasicType() {

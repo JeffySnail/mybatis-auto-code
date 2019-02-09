@@ -1,0 +1,39 @@
+package ${service.packagePath};
+
+import java.util.List;
+
+
+/**
+ * @author :
+ * @date :
+ */
+public interface ${service.serviceName} {
+
+        /**
+         * add ${service.unCapitalizeBeanName}
+         * @return
+         */
+    Response<Integer> add${service.beanName} (${service.beanName}DTO ${service.unCapitalizeBeanName});
+
+
+        /**
+         * load  ${service.unCapitalizeBeanName} by id
+         * @return
+         */
+    Response<${service.beanName}DTO> load${service.beanName}ById (Integer id);
+
+        /**
+         * update  ${service.unCapitalizeBeanName} by id
+         * @return
+         */
+    Response<Integer> update${service.beanName}ById (${service.beanName}DTO ${service.unCapitalizeBeanName});
+
+
+        /**
+         * delete  ${service.unCapitalizeBeanName} by id
+         * @return
+         */
+    Response<Integer> delete${service.beanName}ById (Integer id);
+
+
+}

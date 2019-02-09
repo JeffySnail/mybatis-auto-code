@@ -1,7 +1,487 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fb6a0c4-a80b-4015-8fb8-b523fd7a8143" name="Default Changelist" comment="" />
+    <list default="true" id="1fb6a0c4-a80b-4015-8fb8-b523fd7a8143" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/archetypes-map.dat.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/archetypes-map.dat.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/archetypes-map.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/archetypes-map.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/archetypes-map.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/_1k.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/_1k_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/_1l.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/_1l_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/_1m.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/_1m_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/_1n.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/_z.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/_z_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/archetypes-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/archetypes-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/artifactIds-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/artifactIds-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/context/_k.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/context/_k_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/context/_l.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/context/_l_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/context/_m.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/context/_m_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/context/_n.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/context/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/context/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/versions-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/data0/versions-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index1/index.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/archetypes-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/archetypes-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/artifactIds-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/artifactIds-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/context/_k.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/context/_k_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/context/_l.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/context/_l_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/context/_m.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/context/_m_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/context/_n.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/context/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/context/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/versions-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/data0/versions-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index2/index.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/archetypes-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/archetypes-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/artifactIds-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/artifactIds-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/context/_k.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/context/_k_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/context/_l.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/context/_l_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/context/_m.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/context/_m_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/context/_n.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/context/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/context/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/versions-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/data0/versions-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index3/index.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/archetypes-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/archetypes-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/artifactIds-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/artifactIds-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/context/_k.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/context/_k_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/context/_l.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/context/_l_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/context/_m.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/context/_m_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/context/_n.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/context/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/context/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/versions-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/data0/versions-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index4/index.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/archetypes-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/archetypes-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/artifactIds-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/artifactIds-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/context/_k.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/context/_k_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/context/_l.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/context/_l_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/context/_m.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/context/_m_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/context/_n.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/context/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/context/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/versions-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/data0/versions-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index5/index.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/archetypes-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/archetypes-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/artifactIds-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/artifactIds-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/context/_k.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/context/_k_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/context/_l.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/context/_l_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/context/_m.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/context/_m_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/context/_n.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/context/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/context/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/versions-map.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/data0/versions-map.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index6/index.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/compile-server/mybatis-test_a31f6ed9/ustamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/external_build_system/mybatis-test.a80a4fc3/modules/mybatis-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/external_build_system/mybatis-test.a80a4fc3/project/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/external_build_system/mybatis-test.a80a4fc3/project/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-231907-IC-183.5429.30-132sec/threadDump-20190204-231930.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-231907-IC-183.5429.30-132sec/threadDump-20190204-231934.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-231907-IC-183.5429.30-132sec/threadDump-20190204-232033.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-231907-IC-183.5429.30-132sec/threadDump-20190204-232105.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-231907-IC-183.5429.30-132sec/threadDump-20190204-232111.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-232528-IC-183.5429.30-56sec/threadDump-20190204-232612.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-232815-IC-183.5429.30-24sec/threadDump-20190204-232831.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-232815-IC-183.5429.30-24sec/threadDump-20190204-232838.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-232915-IC-183.5429.30-57sec/threadDump-20190204-232936.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-232915-IC-183.5429.30-57sec/threadDump-20190204-232951.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-232915-IC-183.5429.30-57sec/threadDump-20190204-232953.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-232915-IC-183.5429.30-57sec/threadDump-20190204-232959.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-232915-IC-183.5429.30-57sec/threadDump-20190204-233004.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-232915-IC-183.5429.30-57sec/threadDump-20190204-233012.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-233051-IC-183.5429.30-41sec/threadDump-20190204-233106.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190204-233051-IC-183.5429.30-41sec/threadDump-20190204-233128.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190205-202636-IC-183.5429.30-15sec/threadDump-20190205-202646.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190205-202636-IC-183.5429.30-15sec/threadDump-20190205-202651.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190205-213817-IC-183.5429.30-10sec/threadDump-20190205-213827.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190205-220419-IC-183.5429.30-21sec/threadDump-20190205-220425.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190205-220419-IC-183.5429.30-21sec/threadDump-20190205-220430.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190205-220419-IC-183.5429.30-21sec/threadDump-20190205-220435.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190205-220701-IC-183.5429.30-13sec/threadDump-20190205-220707.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/threadDumps-freeze-20190205-220701-IC-183.5429.30-13sec/threadDump-20190205-220712.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/resource_folder_cache/cache_version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/resource_folder_cache/project_lru_list.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/stat/unit.817" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/META-INF/services/com.coder.enhance.service.GenCodeService" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/mapper.xml.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/META-INF/mybatis-auto-code_main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/META-INF/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/META-INF/services/com.coder.enhance.service.GenCodeService" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/mapper.xml.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ClassBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/MapperConfigBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceImplConfigBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/BeanBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/ControllerConfigBeanBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/JunitTestConfigBeanBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/MapperConfigBeanBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/ServiceConfigBeanBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/ServiceImplConfigBeanBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/SqlConfigBeanBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/XmlConfigBeanBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/MapperJavaGenCodeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/MapperXmlGenCodeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/ServiceJavaGenCodeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/SqlGenCodeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/CodeSpecUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/CommentUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/VelocityUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper.xml.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/service.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sql.sql.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/mybatis-auto-code-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/mybatis-auto-code-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/dimensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/dimensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/ide.general.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/ide.general.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/recentProjects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/recentProjects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/updates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/updates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/usage.statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/config/options/usage.statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/plugins/mybatis-auto-code/lib/mybatis-auto-code-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/plugins/mybatis-auto-code/lib/mybatis-auto-code-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/LocalHistory/changes.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/LocalHistory/changes.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/LocalHistory/changes.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/LocalHistory/changes.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/archetypes-map.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/archetypes-map.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/archetypes-map.dat.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/archetypes-map.dat.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/artifactIds-map.dat.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/context/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data0/versions-map.dat.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data1/context/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data1/context/segments.gen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/data1/context/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/index.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Indices/Index0/index.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Projects/a80a4fc3/tree.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/Maven/Projects/a80a4fc3/tree.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/attrib.dat.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/attrib.dat.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/attrib.dat.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/attrib.dat.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/content.dat.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/content.dat.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/content.dat.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/content.dat.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/contentHashes.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/contentHashes.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/contentHashes.dat.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/contentHashes.dat.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/contentHashes.dat.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/contentHashes.dat.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/contentHashes.dat_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/contentHashes.dat_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/names.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/names.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/names.dat.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/names.dat.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/names.dat.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/names.dat.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/names.dat_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/names.dat_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/records.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/records.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/records.dat.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/records.dat.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/vfs_enum_attrib.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/caches/vfs_enum_attrib.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/conversion/mybatis-testa80a4fc3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/conversion/mybatis-testa80a4fc3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/bytecodeanalysis/values_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/hashesWithFileType" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/hashesWithFileType" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/hashesWithFileType.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/hashesWithFileType.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/hashesWithFileType.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/hashesWithFileType.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/hashesWithFileType_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/hashesWithFileType_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/hashesWithFileType_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/hashesWithFileType_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/idindex/values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/idindex/values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/idindex/values.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/idindex/values.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/idindex/values.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/idindex/values.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/idindex/values.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/idindex/values.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/idindex/values_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/idindex/values_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/todoindex/values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/todoindex/values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/todoindex/values.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/todoindex/values.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/todoindex/values_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/todoindex/values_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/trigram.index/values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/trigram.index/values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/trigram.index/values.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/trigram.index/values.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/trigram.index/values.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/trigram.index/values.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/trigram.index/values.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/trigram.index/values.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/trigram.index/values_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/.persistent/trigram.index/values_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/bytecodeAnalysis.storage_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/fileIdToHashId" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/fileIdToHashId" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/fileIdToHashId_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/fileIdToHashId_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/bytecodeanalysis/fileIdToHashId_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex_inputs" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex_inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex_inputs.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex_inputs.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex_inputs.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex_inputs.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex_inputs.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex_inputs.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex_inputs_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/domfileindex/DomFileIndex_inputs_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.project" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.project.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.project.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex_inputs" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex_inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex_inputs.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex_inputs.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex_inputs_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filenameindex/FilenameIndex_inputs_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes_inputs" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes_inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes_inputs.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes_inputs.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes_inputs_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/filetypes/filetypes_inputs_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/IdIndex.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/IdIndex.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/IdIndex.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/IdIndex.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/IdIndex.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/IdIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/IdIndex.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/IdIndex.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/IdIndex.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/IdIndex.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/fileIdToHashId" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/fileIdToHashId" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/fileIdToHashId_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/idindex/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance_inputs" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance_inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance_inputs.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance_inputs.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance_inputs_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/schematypeinheritance/SchemaTypeInheritance_inputs_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs.storage_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/Stubs_inputs_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.annotations/java.annotations.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.extlist/java.class.extlist.storage_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.fqn/java.class.fqn.storage_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.project" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.project.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.project.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.class.shortname/java.class.shortname.storage_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.field.name/java.field.name.storage_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.name/java.method.name.storage_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/stubs/properties.index/properties.index.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/todoindex/fileIdToHashId" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/todoindex/fileIdToHashId" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/todoindex/fileIdToHashId_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/todoindex/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/Trigram.Index.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/Trigram.Index.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/Trigram.Index.storage.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/Trigram.Index.storage.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/Trigram.Index.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/Trigram.Index.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/Trigram.Index.storage.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/Trigram.Index.storage.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/Trigram.Index.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/Trigram.Index.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/fileIdToHashId" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/fileIdToHashId" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/fileIdToHashId_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/trigram.index/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces_inputs" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces_inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces_inputs.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces_inputs.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces_inputs_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmlnamespaces/XmlNamespaces_inputs_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames_inputs" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames_inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames_inputs.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames_inputs.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames_inputs_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/index/xmltagnames/XmlTagNames_inputs_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/myCustom-sandbox/system/log/idea.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/patchedPluginXmlFiles/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/patchedPluginXmlFiles/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/BaseConfigBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ConfigDialogBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ControllerConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ControllerConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/FieldBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/FieldBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/JunitTestConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/JunitTestConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/MapperConfigConfigBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceImplConfigConfigBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SimpleBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SqlConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SqlConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/XmlConfigConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/XmlConfigConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/dialog/ConfigDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/dialog/ConfigDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/JavaBasicTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/JavaBasicTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/exception/AutoCoderException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/exception/AutoCoderException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/GenCodeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/GenCodeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/PathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/PathUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/BeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ControllerConfigBeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/JunitConfigBeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ServiceConfigBeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ServiceImplConfigBeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/SqlConfigBeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/XmlConfigBeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/services/com.coder.enhance.service.GenCodeService" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/com.coder.enhance.service.GenCodeService" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -10,6 +490,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -34,6 +528,12 @@
                 <item name="mybatis-auto-code" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mybatis-auto-code" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="intellij" type="c8890929:TasksNode$1" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -44,139 +544,122 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/BeanWrapper.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/MapperXmlGenCodeServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="458">
+              <caret line="44" column="47" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="44" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/action/FirstAction.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/MapperConfigBeanBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="478">
+              <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/sql.sql.vm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/SqlGenCodeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/action/AutoCoderAction.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/services/com.coder.enhance.service.GenCodeService">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-54">
-              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            <state relative-caret-position="60">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/ServiceJavaGenCodeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ControllerConfigBeanWrapper.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SqlConfigBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+            <state relative-caret-position="503">
+              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/XmlConfigBeanWrapper.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/SqlConfigBeanBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="56" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="258">
+              <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ServiceConfigBeanWrapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ServiceImplConfigBeanWrapper.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/JavaBasicTypeEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="64" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="64" />
+            <state relative-caret-position="440">
+              <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/SqlConfigBeanWrapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/JunitConfigBeanWrapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="58" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/FieldBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1994#1995#0" expanded="true" />
+                <element signature="e#2086#2087#0" expanded="true" />
+                <element signature="e#2158#2159#0" expanded="true" />
+                <element signature="e#2258#2259#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -196,6 +679,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mysqlRadioButton</find>
+      <find>idType</find>
+      <find>xml</find>
+      <find>org.apache.xerces.parsers.SAXParser</find>
+      <find>SAXParser</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -204,50 +691,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/action/FirstAction.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/JavaBasicTypeEnum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/constant/JavaTypeMappingConstant.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/PathUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/ClassHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/action/AutoCoderAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/exception/AutoCoderException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/GenCodeService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/config/ConfigDialogBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/ApplicationEnum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/DataBaseEnum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.form" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/CodeSpecEnum.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ConfigDialogBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/config/FieldBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/config/SimpleBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/BaseBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/config/MapperConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/config/XmlConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/config/ConfigDialog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/config/ServiceConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/config/ServiceImplConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/BaseConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/FieldBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceImplConfigConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/MapperConfigConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SimpleBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/XmlConfigConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ControllerConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SqlConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/JunitTestConfigBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/BeanWrapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ControllerConfigBeanWrapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/XmlConfigBeanWrapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ServiceConfigBeanWrapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ServiceImplConfigBeanWrapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/SqlConfigBeanWrapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/JunitConfigBeanWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/exception/AutoCoderException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/FieldBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/CommentUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/BeanBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ConfigDialogBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/XmlConfigBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SimpleBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/BaseConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/JunitTestConfigBeanBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/ServiceImplConfigBeanBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/SqlConfigBeanController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/CodeSpecUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/VelocityUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ClassBean.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/GenCodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/PathUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/action/AutoCoderAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.form" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/dialog/ConfigDialog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/util/FileUtils.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ControllerConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/JunitTestConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceImplConfigConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/XmlConfigConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/GenCodeService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper.xml.vm" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/MapperGenCodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/MapperConfigConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/ControllerConfigBeanBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/MapperConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceImplConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/MapperXmlGenCodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/MapperJavaGenCodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper.java.vm" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/ServiceJavaGenCodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/ServiceConfigBeanBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/service.java.vm" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/XmlConfigBeanBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/MapperConfigBeanBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SqlConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/sql.sql.vm" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/services/com.coder.enhance.service.GenCodeService" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/SqlGenCodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/JavaBasicTypeEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/SqlConfigBeanBuilder.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -260,6 +762,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -319,25 +822,131 @@
               <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enhance" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enhance" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enhance" type="462c0819:PsiDirectoryNode" />
+              <item name="dialog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enhance" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enhance" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enhance" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enhance" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enhance" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enhance" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-auto-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-auto-code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="224" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548942371282" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549549642083" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -510,12 +1119,13 @@
       <option name="presentableId" value="Default" />
       <updated>1548842313496</updated>
       <workItem from="1548842315304" duration="11136000" />
-      <workItem from="1548917923139" duration="8543000" />
+      <workItem from="1548917923139" duration="28369000" />
+      <workItem from="1549375973209" duration="5356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19679000" />
+    <option name="totallyTimeSpent" value="44861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -525,32 +1135,33 @@
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.25965664" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.28969958" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="6" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50143063" side_tool="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
       <window_info anchor="bottom" id="Tail" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Build" order="8" weight="0.40509555" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.40481928" />
       <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4985694" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4985694" visible="true" weight="0.3192771" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
       <window_info anchor="bottom" id="Block forbidden dependencies" order="15" sideWeight="0.50143063" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32891566" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" weight="0.3297568" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297568" />
       <window_info anchor="right" id="Commander" order="7" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
@@ -560,32 +1171,33 @@
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.33547926" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.28969958" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="6" />
-      <window_info anchor="bottom" id="Block forbidden dependencies" order="0" sideWeight="0.50143063" side_tool="true" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="1" sideWeight="0.50143063" side_tool="true" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="3" />
-      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info anchor="bottom" id="Tail" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Message" order="8" />
-      <window_info anchor="bottom" id="Build" order="9" weight="0.40509555" />
-      <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.4985694" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50143063" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Tail" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.40481928" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4985694" visible="true" weight="0.3192771" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="Block forbidden dependencies" order="15" sideWeight="0.50143063" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32891566" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.3297568" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297568" />
       <window_info anchor="right" id="Commander" order="7" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
@@ -594,30 +1206,129 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/MapperXmlGenCodeServiceImpl.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/XmlConfigBeanBuilder.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/org/xml/sax/helpers/XMLReaderFactory.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/action/HelloAction.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/JunitConfigBeanWrapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ControllerConfigBeanWrapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/BeanWrapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/BeanBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.4/552bc3047e83510a6a589cee03a6f1a5de11316f/ideaIC-2018.3.4/lib/guava-25.1-jre.jar!/com/google/common/collect/Maps.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1840">
-          <caret line="152" column="39" selection-start-line="152" selection-start-column="39" selection-end-line="152" selection-end-column="39" />
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#6139#6140#0" expanded="true" />
-            <element signature="e#6175#6176#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/util/PathUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/CodeSpecEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        <state relative-caret-position="80">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/util/CommentUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.4/9a7e6602c25ef01717676a30dcfde05c07d7b95c/ideaIC-2018.3.4-sources.jar!/com/intellij/openapi/actionSystem/DataContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.3.4/9a7e6602c25ef01717676a30dcfde05c07d7b95c/ideaIC-2018.3.4-sources.jar!/com/intellij/openapi/actionSystem/AnActionEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+          <folding>
+            <element signature="e#6220#6221#0" expanded="true" />
+            <element signature="e#7399#7400#0" expanded="true" />
+            <element signature="e#7445#7446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/action/AutoCoderAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.0.b2/3136ca936f64c9d68529f048c2618bd356bf85c9/xml-apis-1.0.b2.jar!/javax/xml/parsers/SAXParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/a8e7149359255f43e0e5e3b1837948f9ed5861fb/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="137" column="11" selection-start-line="137" selection-start-column="11" selection-end-line="137" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/a8e7149359255f43e0e5e3b1837948f9ed5861fb/dom4j-1.6.1-sources.jar!/org/dom4j/io/SAXHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="82" column="51" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/org/xml/sax/helpers/XMLReaderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1109">
+          <caret line="183" column="77" selection-start-line="183" selection-start-column="68" selection-end-line="183" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/util/VelocityUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/dialog/ConfigDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="77" column="27" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -626,339 +1337,349 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/exception/AutoCoderException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="44" />
-          <folding>
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1356#1357#0" expanded="true" />
-            <element signature="e#1393#1394#0" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
-            <element signature="e#1473#1474#0" expanded="true" />
-            <element signature="e#1503#1504#0" expanded="true" />
-            <element signature="e#1549#1550#0" expanded="true" />
-            <element signature="e#1587#1588#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ServiceLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7257">
-          <caret line="184" column="19" selection-start-line="184" selection-start-column="19" selection-end-line="184" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/service/GenCodeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/ApplicationEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/CodeSpecEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/DataBaseEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="24" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/JavaBasicTypeEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/services/com.coder.enhance.service.GenCodeService">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/util/ClassHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="355">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="40" column="41" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/constant/JavaTypeMappingConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/dialog/ConfigDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/BaseConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ConfigDialogBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1940">
-          <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/MapperConfigConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SimpleBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/XmlConfigConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceImplConfigConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ControllerConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SqlConfigBean.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/util/ClassHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/JunitTestConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/BeanWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ControllerConfigBeanWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/XmlConfigBeanWrapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/util/CodeSpecUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="56" />
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ServiceConfigBeanWrapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/util/FileUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="393">
+          <caret line="52" column="37" lean-forward="true" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/ServiceImplConfigBeanWrapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/util/PathUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="64" />
+        <state relative-caret-position="645">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/SqlConfigBeanWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/wrapper/JunitConfigBeanWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/FieldBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/action/FirstAction.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ControllerConfigBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/action/AutoCoderAction.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/ui/AutoCoderConfigForm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-54">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <caret line="85" column="20" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/JunitTestConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ClassBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/service/GenCodeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/XmlConfigConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/ControllerConfigBeanBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceImplConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/MapperConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/ServiceConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/ServiceConfigBeanBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper.xml.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/service.java.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/MapperJavaGenCodeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper.java.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/XmlConfigBeanBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/MapperConfigBeanBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/MapperXmlGenCodeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="44" column="47" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="44" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/SqlGenCodeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/SqlConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql.sql.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/enums/JavaBasicTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1994#1995#0" expanded="true" />
+            <element signature="e#2086#2087#0" expanded="true" />
+            <element signature="e#2158#2159#0" expanded="true" />
+            <element signature="e#2258#2259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/service/impl/ServiceJavaGenCodeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coder/enhance/bean/builder/SqlConfigBeanBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/services/com.coder.enhance.service.GenCodeService">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="${xml.nameSpace}">
+
+
+    <resultMap id="BaseResultMap" type="${xml.type}">
+        #foreach($field in ${xml.fields})
+            <id column="${field.columnName}" property="${field.fieldName}"/>
+        #end
+    </resultMap>
+
+    <sql id="allFields">
+        #foreach($field in ${xml.fields})
+        #if($foreach.hasNext)
+            ${field.columnName},
+            #end
+        #if($foreach.last)
+            ${field.columnName}
+        #end
+    #end
+    </sql>
+
+    #if(!$xml.isUseMybatisPenguin)
+
+        <insert id="add${xml.beanName}" parameterType="map" useGeneratedKeys="true"
+                keyProperty="${xml.unCapitalizeBeanName}.id">
+            INSERT INTO ${xml.tableName}
+            (
+            #foreach($field in ${xml.insertFields})
+                #if($foreach.hasNext)
+                    ${field.columnName},
+                #end
+                #if($foreach.last)
+                    ${field.columnName}
+                #end
+            #end
+            )
+            VALUES (
+            #foreach($field in ${xml.insertValues})
+                #if($foreach.hasNext)
+                    ${field},
+                #end
+                #if($foreach.last)
+                    ${field}
+                #end
+            #end
+            )
+            <selectKey resultType="${xml.idType}" keyProperty="${xml.unCapitalizeBeanName}.id">
+                SELECT @@IDENTITY
+                AS Id
+            </selectKey>
+        </insert>
+
+        <insert id="add${xml.beanName}Batch" parameterType="java.util.List" useGeneratedKeys="true"
+                keyProperty="${xml.unCapitalizeBeanName}.id">
+            INSERT INTO ${xml.tableName}
+            (
+            #foreach($field in ${xml.insertFields})
+                #if($foreach.hasNext)
+                    ${field.columnName},
+                #end
+                #if($foreach.last)
+                    ${field.columnName}
+                #end
+            #end
+            )
+            VALUES
+            <foreach collection="${xml.unCapitalizeBeanName}s" item="item" separator=",">
+                (
+                #foreach($field in ${xml.insertValuesWithNoBeanName})
+                    #if($foreach.hasNext)
+                        ${field},
+                    #end
+                    #if($foreach.last)
+                        ${field}
+                    #end
+                #end
+                )
+            </foreach>
+            <selectKey resultType="int" keyProperty="${xml.unCapitalizeBeanName}.id">
+                SELECT @@IDENTITY
+                AS Id
+            </selectKey>
+        </insert>
+
+        <update id="update${xml.beanName}ById" parameterType="map">
+            UPDATE ${xml.tableName}
+            <set>
+                #foreach($field in ${xml.insertFields})
+                    <if test="${xml.unCapitalizeBeanName}.${field.fieldName} != null">
+                        ${field.columnName} = #{${xml.unCapitalizeBeanName}.${field.fieldName}},
+                    </if>
+                #end
+            </set>
+            WHERE Id = #{${xml.unCapitalizeBeanName}.id}
+        </update>
+
+
+        <select id="load${xml.beanName}ById" parameterType="Integer" resultMap="BaseResultMap">
+            SELECT
+            <include refid="allFields"/>
+            FROM ${xml.tableName}
+            WHERE Id = #{id}
+        </select>
+
+        <delete id="delete${xml.beanName}ById" parameterType="Integer">
+        DELETE
+        FROM ${xml.tableName}
+        WHERE Id = #{id}
+    </delete>
+
+
+        <select id="select${xml.beanName}Count" parameterType="map" resultType="Integer">
+            SELECT COUNT(1) FROM  ${xml.tableName}
+            WHERE 1 = 1
+            #foreach($field in ${xml.insertFields})
+                <if test="${xml.unCapitalizeBeanName}.${field.fieldName} != null">
+                    AND ${field.columnName} = #{${xml.unCapitalizeBeanName}.${field.fieldName}}
+                </if>
+            #end
+        </select>
+
+        <select id="select${xml.beanName}ByIds" parameterType="java.util.List" resultMap="BaseResultMap">
+            SELECT
+            <include refid="allFields"/>
+            FROM ${xml.tableName}
+            WHERE Id IN
+            <foreach collection="ids" item="item" separator="," open="(" close=")">
+                #{item}
+            </foreach>
+        </select>
+    #end
+</mapper>

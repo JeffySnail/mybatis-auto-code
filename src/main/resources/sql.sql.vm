@@ -1,0 +1,11 @@
+CREATE TABLE `${sql.tableName}` (
+        `Id` BigInt(64) NOT NULL AUTO_INCREMENT COMMENT 'id ',
+        #foreach($field in ${sql.fieldStrList})
+${field}
+        #end
+        `AddTime` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT 'add time',
+        `UpdateTime` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT 'update time',
+        PRIMARY KEY (`Id`),
+        KEY `IX_AddTime` (`AddTime`),
+        KEY `IX_UpdateTime` (`UpdateTime`)
+) ENGINE=InnoDB DEFAULT CHARSET=${sql.charset} COMMENT='${sql.tableComment}';

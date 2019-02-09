@@ -19,5 +19,8 @@
       <add-to-group group-id="MainMenu" anchor="last"/>
       <action id="Myplugin.Textboxes" class="com.coder.enhance.action.FirstAction" text="Hello" description="Says hello"/>
     </group>
+    <action id="PanelDialogAction" class="com.coder.enhance.action.AutoCoderAction" text="Mybatis-Auto-Coder">
+      <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+    </action>
   </actions>
 </idea-plugin>

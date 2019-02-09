@@ -1,6 +1,7 @@
 package com.coder.enhance.service;
 
-import com.coder.enhance.bean.BaseConfigBean;
+import com.coder.enhance.bean.ClassBean;
+import com.coder.enhance.bean.Configuration;
 
 /**
  * @author jeffy
@@ -13,13 +14,13 @@ public interface GenCodeService {
      *
      * @param baseBean
      */
-    void check(BaseConfigBean baseBean);
+    void check(ClassBean baseBean, Configuration configuration);
 
     /**
      * gen code
      *
      * @param baseBean
      */
-    void genCode(BaseConfigBean baseBean);
+    void genCode(ClassBean baseBean, Configuration configuration);
 
 }
